@@ -1,1 +1,1 @@
-#myPartyBox
+*myPartyBox
