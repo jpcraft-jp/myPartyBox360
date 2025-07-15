@@ -1,6 +1,6 @@
-# PartyBox360
+# myPartyBox360
 
-Die **PartyBox360** ist ein smartes, modulares und vollständig programmierbares Soundsystem auf Raspberry Pi 5 Basis.  
+Die **myPartyBox360** ist ein smartes, modulares und vollständig programmierbares Soundsystem auf Raspberry Pi 5 Basis.  
 Ziel ist es, ein leistungsstarkes, mobiles Audio-System zu bauen, das sich flexibel konfigurieren und erweitern lässt – für Festivals, Partys oder Studioanwendungen.
 
 ## Features (geplant)
